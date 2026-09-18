@@ -10,6 +10,6 @@ Server Console App:
 - broadcasts greatings to new clients as well
 ----------------------------
 Development environment:
-QT framework 6.10.1 version
-Visual Studio 2026
-Microsoft Windows 11
+- QT framework 6.10.1
+- Visual Studio 2026
+- Microsoft Windows 11
