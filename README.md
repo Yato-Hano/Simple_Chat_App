@@ -1,4 +1,4 @@
-This is an my exercise project, the app features:
+This is an exercise project, the app features:
 
 - Client GUI App - 
 - app does support nicknames
